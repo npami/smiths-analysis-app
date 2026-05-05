@@ -17,4 +17,4 @@ Este trabajo cubre las siguientes funcionalidades:
 
 ## 🔗 Enlace a la Web App
 Puedes probar la aplicación en el siguiente enlace:
-[Ver Aplicación en Streamlit]([Pega_Aqui_Tu_Enlace_De_Streamlit])
+[Ver Aplicación en Streamlit](https://smiths-analysis-app-oevyd4rsouhh92vlt27r47.streamlit.app/)
